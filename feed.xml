@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>halunhaku&#x27;s blog</title>
+    <link href="https://halunhaku.top/feed.xml" rel="self" />
+    <link href="https://halunhaku.top" />
+    <updated>2025-03-13T10:56:27+08:00</updated>
+    <author>
+        <name>halunhaku</name>
+    </author>
+    <id>https://halunhaku.top</id>
+
+    <entry>
+        <title>偶尔也能拍出好看的照片</title>
+        <author>
+            <name>halunhaku</name>
+        </author>
+        <link href="https://halunhaku.top/ou-er-ye-neng-pai-chu-hao-kan-de-zhao-pian.html"/>
+        <id>https://halunhaku.top/ou-er-ye-neng-pai-chu-hao-kan-de-zhao-pian.html</id>
+
+        <updated>2025-03-13T10:56:27+08:00</updated>
+            <summary>
+                <![CDATA[
+                    蜗牛——2024.06 落日——2024.12
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><figure class="post__image"><img loading="lazy" src="https://pic1.imgdb.cn/item/677cff98d0e0a243d4f14c7c.jpg" alt=""  data-is-external-image="true"></figure>
+蜗牛——2024.06
+<figure class="post__image"><img loading="lazy" src="https://pic1.imgdb.cn/item/677cff99d0e0a243d4f14c7d.jpg" alt=""  data-is-external-image="true"></figure>
+落日——2024.12</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
